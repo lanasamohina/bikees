@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "OpenSansSemiBold";
+    src: url("../fonts/OpenSans/OpenSansSemiBold/OpenSansSemiBold.eot");
+    src: url("../fonts/OpenSans/OpenSansSemiBold/OpenSansSemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansSemiBold/OpenSansSemiBold.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansSemiBold/OpenSansSemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "OpenSansLightItalic";
+    src: url("../fonts/OpenSans/OpenSansLightItalic/OpenSansLightItalic.eot");
+    src: url("../fonts/OpenSans/OpenSansLightItalic/OpenSansLightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansLightItalic/OpenSansLightItalic.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansLightItalic/OpenSansLightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "OpenSansLight";
+    src: url("../fonts/OpenSans/OpenSansLight/OpenSansLight.eot");
+    src: url("../fonts/OpenSans/OpenSansLight/OpenSansLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansLight/OpenSansLight.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansLight/OpenSansLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OdinRounded";
+    src: url("../fonts/odin-rounded/Odin Rounded/Regular/OdinRounded-Regular.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "OdinRoundedItalic";
+    src: url("../fonts/odin-rounded/Odin Rounded/Regular/OdinRounded-RegularItalic.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HighTide-Demo";
+    src: url("../fonts/high_tide/HighTide.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OpenSansCondensedLight";
+    src: url("../fonts/OpenSansCondensed/OpenSansCondensedLight/OpenSansCondensedLight.eot");
+    src: url("../fonts/OpenSansCondensed/OpenSansCondensedLight/OpenSansCondensedLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansCondensed/OpenSansCondensedLight/OpenSansCondensedLight.woff") format("woff"),
+    url("../fonts/OpenSansCondensed/OpenSansCondensedLight/OpenSansCondensedLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "dymaxionscript";
+    src: url("../fonts/dymaxion_script/DYMAXION.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
